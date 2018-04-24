@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        print("Hi It's my first project in hakintosh")
     }
 
     override func didReceiveMemoryWarning() {
